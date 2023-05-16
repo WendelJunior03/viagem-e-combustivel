@@ -1,16 +1,11 @@
-# custokm
+# Aplicativo de Calculo de Viagem e Combustivel 
 
-A new Flutter project.
+ - Nesse aplicativo você consegue calcular a viagem, o valor que você irá gastar se for para alguma cidade ou país. 
+ - Você tambem consegue usar para calcular qual combustível é melhor para você abastecer. 
 
-## Getting Started
+Aplicativo criado em Flutter, esta em melhoria. 
+- Segue imagens do APP.
+![Screenshot_1683141318](https://github.com/WendelJunior03/viagem-e-combustivel/assets/91696364/310eafde-8c41-47dd-b919-69627d97f78e)
+![Screenshot_1683141327](https://github.com/WendelJunior03/viagem-e-combustivel/assets/91696364/50fe9a01-eafd-4ba2-8279-2bb61b755083)
+![Screenshot_1683141329](https://github.com/WendelJunior03/viagem-e-combustivel/assets/91696364/25fd8b07-d8ab-4c95-a663-bcfc91cda217)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
